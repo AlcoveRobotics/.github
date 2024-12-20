@@ -1,3 +1,2 @@
 # Alcove Robotics
-
-## About
+Robotics consulting, prototyping, and manufacturing.
